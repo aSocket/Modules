@@ -1,4 +1,3 @@
-
 # aSocket Module - Random
 *Creates a plethora of different random types. (Strings, integers, passwords, etc.)*
 
