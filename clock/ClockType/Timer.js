@@ -1,7 +1,7 @@
 'use strict';
 
 /**
- * @name Clock - Timer
+ * @name Timer - Clock
  * @type: Component
  * @desc: Timer component.
  * 

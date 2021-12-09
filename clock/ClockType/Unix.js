@@ -1,7 +1,7 @@
 'use strict';
 
 /**
- * @name Clock - Unix
+ * @name Unix - Clock
  * @type: Component
  * @desc: Unix component.
  * 

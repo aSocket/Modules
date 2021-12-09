@@ -1,7 +1,7 @@
 'use strict';
 
 /**
- * @name Clock - HomeViewModel
+ * @name HomeViewModel - Clock
  * @type: Display ViewModel
  * @desc: Start a timer or stopwatch, create alarms, compare global times, view/convert to unix, etc. - HomeViewModel
  * 

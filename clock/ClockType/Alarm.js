@@ -1,7 +1,7 @@
 'use strict';
 
 /**
- * @name Clock - Alarm
+ * @name Alarm - Clock
  * @type: Component
  * @desc: Alarm component.
  * 

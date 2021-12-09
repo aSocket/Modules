@@ -1,7 +1,7 @@
 'use strict';
 
 /**
- * @name Clock - Home
+ * @name Home - Clock
  * @type: Component
  * @desc: Home component.
  * 

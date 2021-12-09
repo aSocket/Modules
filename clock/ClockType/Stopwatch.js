@@ -1,7 +1,7 @@
 'use strict';
 
 /**
- * @name Clock - Stopwatch
+ * @name Stopwatch - Clock
  * @type: Component
  * @desc: Stopwatch component.
  * 
