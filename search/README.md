@@ -1,4 +1,3 @@
-
 # aSocket Module - Search
 *Browse the web in a private window*
 
