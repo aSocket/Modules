@@ -7,4 +7,10 @@ If you have **created** a **module** for the aSocket client within **the sandbox
 
 ![aSocket Modules Home](https://i.asocket.net/Thoughtful-Fluffy-Arthropods-1638678871.png)
 
-*More information coming soon...*
+# Current Modules
+ - [Clock](https://github.com/aSocket/Modules/tree/main/clock)
+ - [Random](https://github.com/aSocket/Modules/tree/main/random)
+ - [Search](https://github.com/aSocket/Modules/tree/main/search)
+ 
+ # 
+ ***More information coming soon...***
