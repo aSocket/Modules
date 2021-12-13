@@ -3,7 +3,7 @@
 
 **Happy Holidays!** ☃️.
 
-<p align="center">  
+<p>  
 	<img src="https://i.imgur.com/NHSZEfK.gif">
 	<br>  
 	<i>❄️❄️❄️</i>
