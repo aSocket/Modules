@@ -11,6 +11,7 @@ If you have **created** a **module** for the aSocket client within **the sandbox
  - [Clock](https://github.com/aSocket/Modules/tree/main/clock)
  - [Random](https://github.com/aSocket/Modules/tree/main/random)
  - [Search](https://github.com/aSocket/Modules/tree/main/search)
- 
+ - [Snow](https://github.com/aSocket/Modules/tree/main/snow)
+
  # 
  ***More information coming soon...***
