@@ -13,6 +13,12 @@
 // - Author: aSocket LLC
 // ------------------------------
 
+// - Required Modules
+// ------------------------------
+
+// Electron's session module.
+const { session } = require('electron');
+
 // - Module Events
 // ------------------------------
 
@@ -161,6 +167,9 @@ asoc.onUnload = () => {
     for (const window of asoc.Module._var.windows) {
         asoc.Genesis.DeleteWindow(window.WindowName);
     }
+
+    // Clear session data.
+    session.defaultSession.clearStorageData();
 
     // Remove all listeners for 'createNewBrowser' net message.
     asoc.Hermes.Server.RemoveAllListeners('createNewBrowser');
